@@ -1,4 +1,5 @@
 HI
 hi, this is second
 hi, this is third
-hi,this is fourth
+hi.this is fourth
+hi. this is written usig vim command and exited using - :wq command 
